@@ -1,0 +1,21 @@
+[
+    {
+        "1": {
+            "id": 1,
+            "name": "Project One",
+            "description": "This is the first project.",
+            "features": ["Feature 1", "Feature 2", "Feature 3"],
+            "technologies": ["Laravel", "Vue.js", "MySQL"],
+            "contact": "john@example.com"
+        },
+        "2": {
+            "id": 2,
+            "name": "Project Two",
+            "description": "This is the second project.",
+            "features": ["Feature A", "Feature B", "Feature C"],
+            "technologies": ["React", "Node.js", "MongoDB"],
+            "contact": "jane@example.com"
+        }
+    }
+]
+
