@@ -36,6 +36,6 @@ php artisan key:generate
 php artisan serve
 ```
 
-<h2>🍰 Contribution Guidelines:</h2>
+<h2>🍰 Project Guideline:</h2>
 
 You can add new project at storage/data/project.json here. It Automatically add new project at project section and project details page. storage/data/work\_experience.json t if you add new job information education information just add
