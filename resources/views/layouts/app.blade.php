@@ -44,21 +44,15 @@
                      <li class="nav-item">
                         <a class="nav-link" href="/">Home</a>
                      </li>
+
                      <li class="nav-item">
-                        <a class="nav-link" href="assets/about.html">About</a>
+                        <a class="nav-link" href="../work_experiences">Work Experience</a>
                      </li>
-                     <li class="nav-item">
-                        <a class="nav-link" href="assets/portfolio.html">Portfolio</a>
-                     </li>
-                     <li class="nav-item">
-                        <a class="nav-link" href="assets/service.html">Service</a>
-                     </li>
+
                      <li class="nav-item">
                         <a class="nav-link" href="../project">Project</a>
                      </li>
-                     <li class="nav-item">
-                        <a class="nav-link" href="assets/contact.html">Contact Us</a>
-                     </li>
+
                   </ul>
                </div>
             </nav>

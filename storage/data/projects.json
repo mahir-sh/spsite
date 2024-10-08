@@ -1,21 +1,84 @@
 [
     {
-        "1": {
-            "id": 1,
-            "name": "Project One",
-            "description": "This is the first project.",
-            "features": ["Feature 1", "Feature 2", "Feature 3"],
-            "technologies": ["Laravel", "Vue.js", "MySQL"],
-            "contact": "john@example.com"
-        },
-        "2": {
-            "id": 2,
-            "name": "Project Two",
-            "description": "This is the second project.",
-            "features": ["Feature A", "Feature B", "Feature C"],
-            "technologies": ["React", "Node.js", "MongoDB"],
-            "contact": "jane@example.com"
-        }
+        "id": 1,
+        "name": "Blog Website",
+        "description": "This is a blog website built using Laravel framework. It is a simple blog where users can create their account, create blog posts, edit and delete existing posts. ",
+        "features": "User authentication, User registration, Blog post creation, Blog post editing, Blog post deletion, Comment creation",
+        "technologies": "Laravel, PHP, MySQL, HTML, CSS, JavaScript, Bootstrap",
+        "contact": "john.doe@example.com"
+    },
+    {
+        "id": 2,
+        "name": "E-commerce Website",
+        "description": "This is an e-commerce website built using Laravel framework. It is a simple online store where users can create their account, add products to cart, checkout, edit and delete existing products. ",
+        "features": "User authentication, User registration, Product creation, Product editing, Product deletion, Shopping cart, Checkout",
+        "technologies": "Laravel, PHP, MySQL, HTML, CSS, JavaScript, Bootstrap, Stripe",
+        "contact": "jane.doe@example.com"
+    },
+    {
+        "id": 3,
+        "name": "To-Do List App",
+        "description": "This is a simple to-do list app built using React framework. It is a simple app where users can add, edit and delete to-do items. ",
+        "features": "User authentication, User registration, To-do item creation, To-do item editing, To-do item deletion",
+        "technologies": "React, JavaScript, HTML, CSS, Firebase",
+        "contact": "john.smith@example.com"
+    },
+    {
+        "id": 4,
+        "name": "Weather App",
+        "description": "This is a simple weather app built using React framework. It is a simple app where users can view the current weather and forecast. ",
+        "features": "User authentication, User registration, Weather data display, Weather data refresh",
+        "technologies": "React, JavaScript, HTML, CSS, OpenWeatherMap",
+        "contact": "jane.smith@example.com"
+    },
+    {
+        "id": 5,
+        "name": "Quiz App",
+        "description": "This is a simple quiz app built using React framework. It is a simple app where users can answer questions and view the results. ",
+        "features": "User authentication, User registration, Quiz question creation, Quiz question editing, Quiz question deletion, Quiz result display",
+        "technologies": "React, JavaScript, HTML, CSS, Firebase",
+        "contact": "john.doe@example.com"
+    },
+    {
+        "id": 6,
+        "name": "Task Management App",
+        "description": "This is a simple task management app built using Laravel framework. It is a simple app where users can add, edit and delete tasks. ",
+        "features": "User authentication, User registration, Task creation, Task editing, Task deletion",
+        "technologies": "Laravel, PHP, MySQL, HTML, CSS, JavaScript, Bootstrap",
+        "contact": "jane.doe@example.com"
+    },
+    {
+        "id": 7,
+        "name": "Job Search App",
+        "description": "This is a simple job search app built using React framework. It is a simple app where users can search for jobs and view the job details. ",
+        "features": "User authentication, User registration, Job search, Job details display",
+        "technologies": "React, JavaScript, HTML, CSS, Firebase",
+        "contact": "john.smith@example.com"
+    },
+    {
+        "id": 8,
+        "name": "Image Gallery App",
+        "description": "This is a simple image gallery app built using Laravel framework. It is a simple app where users can upload, edit and delete images. ",
+        "features": "User authentication, User registration, Image upload, Image editing, Image deletion",
+        "technologies": "Laravel, PHP, MySQL, HTML, CSS, JavaScript, Bootstrap",
+        "contact": "jane.smith@example.com"
+    },
+    {
+        "id": 9,
+        "name": "Chat App",
+        "description": "This is a simple chat app built using React framework. It is a simple app where users can send messages to each other. ",
+        "features": "User authentication, User registration, Chat messaging, Chat message display",
+        "technologies": "React, JavaScript, HTML, CSS, Firebase",
+        "contact": "john.doe@example.com"
+    },
+    {
+        "id": 10,
+        "name": "Forum App",
+        "description": "This is a simple forum app built using Laravel framework. It is a simple app where users can create topics, reply to topics, edit and delete existing topics. ",
+        "features": "User authentication, User registration, Topic creation, Topic editing, Topic deletion, Reply creation",
+        "technologies": "Laravel, PHP, MySQL, HTML, CSS, JavaScript, Bootstrap",
+        "contact": "jane.doe@example.com"
     }
-]
 
+
+]

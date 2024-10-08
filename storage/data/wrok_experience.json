@@ -1,0 +1,64 @@
+[
+    {
+        "type": "school",
+        "name": "Dhaka Residential Model College",
+        "location": "Dhaka, Bangladesh",
+        "start_date": "2005-01-01",
+        "end_date": "2011-12-31"
+    },
+    {
+        "type": "college",
+        "name": "Notre Dame College",
+        "location": "Dhaka, Bangladesh",
+        "start_date": "2012-01-01",
+        "end_date": "2014-12-31"
+    },
+    {
+        "type": "university",
+        "name": "BRAC University",
+        "location": "Dhaka, Bangladesh",
+        "start_date": "2015-01-01",
+        "end_date": "2017-12-31",
+        "degree": "BSc in Computer Science"
+    },
+    {
+        "type": "university",
+        "name": "BRAC University",
+        "location": "Dhaka, Bangladesh",
+        "start_date": "2018-01-01",
+        "end_date": "2020-12-31",
+        "degree": "MSc in Computer Science"
+    },
+    {
+        "type": "job",
+        "position": "Software Engineer",
+        "work_stack": "Java, Spring, MySQL, JavaScript",
+        "company_name": "XYZ Software Limited",
+        "start_date": "2020-01-01",
+        "end_date": "2021-12-31"
+    },
+    {
+        "type": "job",
+        "position": "Software Engineer",
+        "work_stack": "Python, Django, MongoDB, JavaScript",
+        "company_name": "ABC Software Limited",
+        "start_date": "2021-01-01",
+        "end_date": "2022-12-31"
+    },
+    {
+        "type": "job",
+        "position": "Senior Software Engineer",
+        "work_stack": "Java, Spring Boot, MySQL, React",
+        "company_name": "PQR Software Limited",
+        "start_date": "2022-01-01",
+        "end_date": "2023-12-31"
+    },
+    {
+        "type": "job",
+        "position": "Lead Software Engineer",
+        "work_stack": "Python, Django, PostgreSQL, Vue.js",
+        "company_name": "STU Software Limited",
+        "start_date": "2023-01-01",
+        "end_date": null
+    }
+]
