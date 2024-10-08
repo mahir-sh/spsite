@@ -11,19 +11,6 @@ Route::get('/', function () {
 Route::get('/project',[ProjectController::class,'index'])->name('project.index');
 
 
-Route::get('/projects_details/{id}',action: [ProjectController::class,'show'])->name('projects_details.show');
-
-
-
-Route::get('/about', function () {
-    return view('about');
+Route::get('/projects_details', function () {
+    return view('projects_details');
 });
-
-Route::get('/work_experiences', [Work_experiences::class, 'work'])->name('work_experiences.index');
-
-
-
-//Route::get('/work_experiences',[ProjectController::class,'index'])->name('work_experiences.index');
-
-
-

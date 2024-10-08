@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-   <head>
+   <head>   
       <!-- basic -->
       <meta charset="utf-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -46,7 +46,7 @@
                      </li>
 
                      <li class="nav-item">
-                        <a class="nav-link" href="../work_experiences">Work Experience</a>
+                        <a class="nav-link" href="assets/about.html">About</a>
                      </li>
 
                      <li class="nav-item">
