@@ -38,78 +38,25 @@
                             </div> <!-- Close the row -->
                         @endif
                     @endforeach
+
+
+
+
+
+
+
+
                 </div>
-<<<<<<< HEAD
             </div>
 
 
 
-=======
-             </div>
-             <div class="col-md-4">
-                <div class="blog_box">
-                   <div class="blog_img_2">
-                      <h4 class="date_text">Jun 05</h4>
-                      <h4 class="prep_text">Veniam, quis nostrud </h4>
-                   </div>
-                   <p class="lorem_text">elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris</p>
-                   <div class="readmore_bt_1"><a href="../projects_details">Read More</a></div>
-                </div>
-             </div>
-             <div class="col-md-4">
-                <div class="blog_box">
-                   <div class="blog_box_3">
-                      <div class="blog_img">
-                         <h4 class="date_text">Jun 05</h4>
-                         <h4 class="prep_text">Veniam, quis nostrud </h4>
-                      </div>
-                      <p class="lorem_text">elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris</p>
-                      <div class="readmore_bt_1"><a href="../projects_details">Read More</a></div>
-                   </div>
-                </div>
-             </div>
-          </div>
-          <br><br><br>
-           <div class="container">
-            <div class="row">
-               <div class="col-md-4">
-                  <div class="blog_box">
-                     <div class="blog_img">
-                        <h4 class="date_text">Jun 05</h4>
-                        <h4 class="prep_text">Veniam, quis nostrud </h4>
-                     </div>
-                     <p class="lorem_text">elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris</p>
-                     <div class="readmore_bt_1"><a href="../projects_details">Read More</a></div>
-                  </div>
-               </div>
-               <div class="col-md-4">
-                  <div class="blog_box">
-                     <div class="blog_img_2">
-                        <h4 class="date_text">Jun 05</h4>
-                        <h4 class="prep_text">Veniam, quis nostrud </h4>
-                     </div>
-                     <p class="lorem_text">elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris</p>
-                     <div class="readmore_bt_1"><a href="../projects_details">Read More</a></div>
-                  </div>
-               </div>
-               <div class="col-md-4">
-                  <div class="blog_box">
-                     <div class="blog_box_3">
-                        <div class="blog_img">
-                           <h4 class="date_text">Jun 05</h4>
-                           <h4 class="prep_text">Veniam, quis nostrud </h4>
-                        </div>
-                        <p class="lorem_text">elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris</p>
-                        <div class="readmore_bt_1"><a href="../projects_details">Read More</a></div>
-                     </div>
-                  </div>
-                 <!-- blog section end -->
-               </div>
-            </div>
-       </div>
-    </div>
-   </div>
->>>>>>> f1832c827702e78cc0411e76f8ffb4995ae2ec82
+
+
+
+
+
+
 
    <!-- blog section end -->
 @endsection
